@@ -10,5 +10,5 @@ test("testando multiplicacao de 2*2", () => {
 });
 
 test("testando divisao de 10/2", () => {
-    expect(calculator.divisao(10,2)).toBe(4);
+    expect(calculator.divisao(10,2)).toBe(5);
 });
